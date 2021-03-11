@@ -12,7 +12,8 @@
 		<p>폐기 위 단축키(ctrl+shift+R)=>커밋하기전(Unstaging)에서 변경내용을 취소</p>
 		<p>커밋 후 처리 방법</p>
 		<ul>
-			<li>1.브랜치 초기화 : 특정 위치로 되돌림(Hard : 폐기 / Mixed : Unstaging / Soft : staging)
+			<li>1.브랜치 초기화 : 특정 위치로 되돌림(Hard : 폐기 / Mixed : Unstaging / Soft : staging)</li>
+			<li>2.리버스 커</li>
 		</ul>
 	</body>
 	<script>
