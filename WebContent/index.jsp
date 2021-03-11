@@ -14,8 +14,8 @@
 		<ul>
 			<li>1.브랜치 초기화 : 특정 위치로 되돌림(Hard : 폐기 / Mixed : Unstaging / Soft : staging)</li>
 			<li>2.리버스 커밋 : 되돌아간 지점을 새로 커밋하는 개념</li>
-
 		</ul>
+		<p>지금 상황에서는 신규개발 브랜치가 이 파일을 가급적이면 손대지 않는 것이 좋음</p>
 	</body>
 	<script>
 	</script>
